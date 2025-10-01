@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is IBRAHIM MARWAN GHAYBOUR
 ================================================================================================================================================
-
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahem-ghaybour&show_icons=true&theme=radical)  
 Programming Languages & Technologies: JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS, Bootstrap
 
 Frameworks & Libraries:Vue.js, Nuxt.js, VueUse, Vuex, Pinia, ShadcnVue, GSAP.js, NestJS, Mongoose
