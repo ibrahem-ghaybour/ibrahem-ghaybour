@@ -18,7 +18,7 @@ I'm **IBRAHIM MARWAN GHAYBOUR** 🌌
 ## 🛸 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,tailwind,bootstrap,nodejs,nestjs,mongodb,git,github,vscode,figma,pinia,vite,github,gitlab,vuetify,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,tailwind,bootstrap,nodejs,nestjs,mongodb,git,github,vscode,figma,pinia,vite,github,gitlab,vuetify,css,html,scss" />
 </p>
 
 ---
