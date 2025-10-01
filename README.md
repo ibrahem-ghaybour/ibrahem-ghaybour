@@ -5,6 +5,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahem-ghaybour&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahem-ghaybour&layout=compact&theme=radical)
 
+## 🏆 Featured Projects
+
+🔹 [User Management Dashboard (Vue 3 + TypeScript)](https://github.com/ibrahem-ghaybour/user-management-dashboard-vue-3-assessment)  
+A complete user management system built with Vue 3 and TypeScript.
+
+🔹 [ModuFrame](https://github.com/ibrahem-ghaybour/ModuFrame)  
+A dynamic modular website framework to create components flexibly.
+
 Programming Languages & Technologies: JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS, Bootstrap
 
 Frameworks & Libraries:Vue.js, Nuxt.js, VueUse, Vuex, Pinia, ShadcnVue, GSAP.js, NestJS, Mongoose
