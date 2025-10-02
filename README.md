@@ -15,9 +15,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <a href="https://github.com/ibrahem-ghaybour">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&center=true&vCenter=true&width=920&color=00DC82&lines=Front-end+Developer+(Vue+3%2C+Nuxt+3%2C+TypeScript);Cosmic+UI%2FUX+%7C+Performance-first+%7C+SEO%2FA11y;Building+scalable+apps+with+NestJS+%26+MongoDB" alt="Typing"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/ibrahem-ghaybour/ibrahem-ghaybour/main/assets/banner.png" alt="Cosmic Banner" />
 </p>
 
 <p align="center">
