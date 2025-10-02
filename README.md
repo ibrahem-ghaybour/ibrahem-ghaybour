@@ -64,18 +64,7 @@ I'm **IBRAHIM MARWAN GHAYBOUR** 🌌
 <img src="https://github-profile-trophy.vercel.app/?username=ibrahem-ghaybour&theme=radical&no-frame=true&margin-w=10" width="45%" />
 </p>
 
----
 
-## 🌌 Connect With Me  
-
-<p align="center">
-<a href="https://github.com/ibrahem-ghaybour"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ibrahim-ghaybour-2b999a299/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discord.com/users/ebrahim_ghaibour"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:ebrahimghaibour65@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
 
 ## ☕ Support My Space Journey  
 
