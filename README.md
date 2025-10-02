@@ -1,58 +1,37 @@
-# 👋 Hi, I'm Ibrahim Marwan Ghaybour  
+👋 Hi, I'm Ibrahim Marwan Ghaybour
 
-💻 Front-end Developer | Vue.js & TypeScript Enthusiast | Building scalable web apps  
+💻 Front-end Developer | Vue.js & TypeScript Enthusiast | Building scalable web apps
 
----
+🌍 Based in Egypt – 10th of Ramadan
+🎯 Passionate about performance, accessibility, and full-stack web solutions
+🚀 Always learning & open to exciting opportunities
 
-## 🚀 About Me  
-- 🎯 Passionate Frontend Developer with **2+ years** of experience.  
-- 🔥 Skilled in **Vue.js, Nuxt.js, TailwindCSS, TypeScript**.  
-- 🌍 Based in Egypt – 10th of Ramadan.  
-- 💡 Interested in performance optimization, accessibility, and full-stack development (NestJS + MongoDB).  
+🛠 Tech Stack
+<p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=js,ts,html,css" /> <br/> <!-- Frameworks & Libraries --> <img src="https://skillicons.dev/icons?i=vue,nuxt,nest,react,bootstrap,tailwind" /> <br/> <!-- State Management & Tools --> <img src="https://skillicons.dev/icons?i=webpack,vite" /> <br/> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> <br/> <!-- Dev Tools --> <img src="https://skillicons.dev/icons?i=git,github,docker" /> <br/> <!-- Design --> <img src="https://skillicons.dev/icons?i=figma" /> </p>
+🚀 Featured Projects
 
----
+🔹 Curva Egypt – E-commerce Platform
 
-## 🛠️ Tech Stack  
+Vue 3 + Nuxt 3 + TailwindCSS + TypeScript
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind,nest,mongodb,git,figma,docker" />
-</p>
+Multi-language support, SEO optimization, dark/light themes
 
----
+Full responsive, mobile-first design
 
-## 📂 Featured Projects  
+🔹 User Management Dashboard
 
-🔹 [**Curva Egypt – E-commerce Platform**](https://curvaegypt.com)  
-Vue 3 + Nuxt + TailwindCSS + TypeScript  
-- Multi-language support, SEO optimization, responsive design.  
+Vue 3 + Nuxt + Pinia
 
-🔹 **User Management Dashboard**  
-Vue 3 + Nuxt + Pinia  
-- Role-based authentication, CRUD, pagination, dark/light themes.  
+Role-based authentication & session handling
 
----
+CRUD, pagination, filtering, theme switcher
 
-## 📊 GitHub Stats  
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ibrahem-ghaybour&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahem-ghaybour&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahem-ghaybour&layout=compact&theme=tokyonight" height="160"/> </p>
+📬 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahem-ghaybour&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahem-ghaybour&layout=compact&theme=tokyonight" height="150"/>
-</p>  
+💼 LinkedIn
 
----
+🌐 Curva Egypt
 
-## 📖 Documentation  
-
-- [Overview](#)  
-- [Tech Stack](#)  
-- [Installation](#)  
-- [Project Structure](#)  
-- [Roadmap](#)  
-- [Contributing](#)  
-
----
-
-## 📬 Connect With Me  
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahim-ghaybour-2b999a299)  
-- 📧 Email: **ebrahimghaibour65@gmail.com**  
+📧 Email: ebrahimghaibour65@gmail.com
