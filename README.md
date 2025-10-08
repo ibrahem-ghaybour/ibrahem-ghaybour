@@ -8,17 +8,17 @@
 <!-- TYPING EFFECT -->
 <p align="center">
   <a href="https://github.com/ibrahem-ghaybour">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Vue.js+%26+NestJs;Building+Scalable+%26+Accessible+Web+Apps;Cosmic+UI+Designs+%7C+Performance+First" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Vue.js+%26+NestJS;Building+Scalable+%26+Accessible+Web+Apps;Clean+Code+%7C+Modern+Architecture+%7C+SQL+%26+NoSQL" alt="Typing Animation"/>
   </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Front-end Developer with **2+ years experience**  
+- 🚀 **Full-Stack Developer** with **2+ years experience**  
 - 💡 Specialized in **Vue.js, Nuxt.js, TailwindCSS, TypeScript**  
-- 🛰 Experienced with **NestJS, MongoDB, REST APIs**  
-- 🎨 Passionate about **performance, accessibility (A11y), and UX/UI**  
+- 🛰 Backend experience with **NestJS, Node.js, MongoDB, MySQL**  
+- 🎨 Focused on **performance, accessibility (A11y), and clean architecture**  
 - 🌍 Based in **Egypt – 10th of Ramadan**  
 - 🔭 Always learning & open for **remote or on-site opportunities**  
 
@@ -33,7 +33,9 @@
   <!-- Styling -->
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nest,mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=nest,nodejs,express" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vite,webpack,linux,npm,postman,figma" />
 </p>
@@ -44,22 +46,29 @@
   <img src="https://img.shields.io/badge/VueUse-Utilities-41b883?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ShadcnVue-UI%20Components-0ea5e9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Mongoose-ODM-47A248?logo=mongodb&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeORM-ORM-FAB005?logo=typeorm&logoColor=fff&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔭 [Curva Egypt – E-commerce Platform](https://curvaegypt.com)
+### 🛍️ [Curva Egypt – E-commerce Platform](https://curvaegypt.com)
 - Vue 3 · Nuxt 3 · TailwindCSS · TypeScript  
 - Multi-language (EN/AR), SEO optimization, dark/light themes  
 - Mobile-first, fully responsive  
 
 ### 🛰 User Management Dashboard
-- Vue 3 · Nuxt · Pinia  
+- Vue 3 · Nuxt · Pinia · NestJS  
 - RBAC Authentication & Session handling  
 - CRUD + Pagination + Filters + Sorting  
 - Optimistic UI & caching  
+
+### 💾 RESTful API with NestJS + MySQL
+- Authentication using JWT  
+- Role-based access control (RBAC)  
+- Mongoose & TypeORM integration  
+- Clean and modular architecture  
 
 ---
 
