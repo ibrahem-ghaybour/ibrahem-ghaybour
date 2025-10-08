@@ -8,7 +8,7 @@
 <!-- TYPING EFFECT -->
 <p align="center">
   <a href="https://github.com/ibrahem-ghaybour">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Vue.js+%26+TypeScript;Building+Scalable+%26+Accessible+Web+Apps;Cosmic+UI+Designs+%7C+Performance+First" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Vue.js+%26+NestJs;Building+Scalable+%26+Accessible+Web+Apps;Cosmic+UI+Designs+%7C+Performance+First" alt="Typing Animation"/>
   </a>
 </p>
 
@@ -33,7 +33,7 @@
   <!-- Styling -->
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nest,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nest,mongodb,sql" />
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vite,webpack,linux,npm,postman,figma" />
 </p>
