@@ -8,7 +8,7 @@
 <!-- TYPING EFFECT -->
 <p align="center">
   <a href="https://github.com/ibrahem-ghaybour">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Vue.js+%26+NestJS;Building+Scalable+%26+Accessible+Web+Apps;Clean+Code+%7C+Modern+Architecture+%7C+SQL+%26+NoSQL" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Front-End+Developer+%7C+Vue.js+%26+NestJS;Building+Scalable+%26+Accessible+Web+Apps;Clean+Code+%7C+Modern+Architecture+%7C+SQL+%26+NoSQL" alt="Typing Animation"/>
   </a>
 </p>
 
