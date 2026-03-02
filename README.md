@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e293b&text=Ibrahim%20Marwan%20Ghaybour&fontAlign=50&fontAlignY=38&fontColor=00DC82&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e293b&text=Ibrahim%20Marwan&fontAlign=50&fontAlignY=38&fontColor=00DC82&animation=fadeIn" alt="header"/>
 </p>
 
 <!-- TYPING EFFECT -->
