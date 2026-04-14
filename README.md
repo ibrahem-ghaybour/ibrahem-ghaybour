@@ -15,7 +15,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 **Front-end Developer** with **2+ years experience**  
 - 💡 Specialized in **Vue.js, Nuxt.js, TailwindCSS, TypeScript**  
 - 🛰 Backend experience with **NestJS, Node.js, MongoDB, MySQL**  
 - 🎨 Focused on **performance, accessibility (A11y), and clean architecture**  
